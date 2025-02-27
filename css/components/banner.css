@@ -1,0 +1,12 @@
+.banner {
+	background-image: url('../../images/flowers.jpg');
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	padding: 150px 0px;
+	color: white;
+}
+
+.banner h1 { 
+	font-size: 50px;
+}
